@@ -13,12 +13,22 @@
 
 ---
 
-## 🚀 Featured
+## 🚀 Featured Projects
 
-| | |
-|---|---|
-| [![Project_C19](https://github-readme-stats.vercel.app/api/pin/?username=LeaderPark&repo=Project_C19)](https://github.com/LeaderPark/Project_C19) | [![MangJo](https://github-readme-stats.vercel.app/api/pin/?username=LeaderPark&repo=MangJo)](https://github.com/LeaderPark/MangJo) |
-| [![DunFight](https://github-readme-stats.vercel.app/api/pin/?username=LeaderPark&repo=DunFight)](https://github.com/LeaderPark/DunFight) | [![projectL](https://github-readme-stats.vercel.app/api/pin/?username=LeaderPark&repo=projectL)](https://github.com/LeaderPark/projectL) |
+### 🎮 Games
+- 🔹 [Project_C19](https://github.com/LeaderPark/Project_C19)
+- 🔹 [MangJo (Use And Block)](https://github.com/LeaderPark/MangJo)
+- 🔹 [DunFight](https://github.com/LeaderPark/DunFight)
+- 🔹 [TNC](https://github.com/LeaderPark/TNC)
+
+### 🤖 Discord / Tools
+- 🔹 [projectL](https://github.com/LeaderPark/projectL)
+- 🔹 [GGMDiscordFinal](https://github.com/LeaderPark/GGMDiscordFinal)
+
+### 🌐 Web / Network
+- 🔹 [LeaderPark.github.io](https://github.com/LeaderPark/LeaderPark.github.io)
+- 🔹 [NetWork](https://github.com/LeaderPark/NetWork)
+- 🔹 [Identity-Checker](https://github.com/LeaderPark/Identity-Checker)
 
 ---
 
@@ -104,12 +114,9 @@
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeaderPark&show_icons=true&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaderPark&layout=compact&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeaderPark&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaderPark&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
