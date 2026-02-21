@@ -117,6 +117,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeaderPark&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaderPark&layout=compact&theme=default&hide_border=true" height="160"/>
+
 </p>
